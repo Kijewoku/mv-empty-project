@@ -1,6 +1,8 @@
 RMMV EMPTY PROJECT
 ==================
 
+> généré avec la version 1.6.2 de RPG Maker MV
+
 Un projet RPG Maker MV vierge afin de démarrer sur de bonnes bases.
 
 Il y a des divers templates pour aider, nottament dans img/system.
